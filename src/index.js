@@ -122,6 +122,7 @@ export default {
     ];
 
     const legendaryVessels = [
+      "Dogfish Head 120 Minute IPA ⚡🍺",
       "Dragon-Forged Chalice 🐉🏆",
       "King's Golden Stein 👑",
       "Cup of Eternal Foam ♾️",
